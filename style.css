@@ -38,7 +38,7 @@ nav a {
     border:0;
     outline:0;
     padding:7px 20px;
-    font-size:18px;
+    font-size:1vw;
     border-radius : 4px;
     margin-left:5px;
     cursor:pointer;
@@ -91,7 +91,7 @@ nav button.active {
 }
 
 .header-content h1 {
-    font-size: 50px;
+    font-size: 5vw;
     line-height: 2;
     font-family: monospace;
     letter-spacing: 1px;
@@ -168,13 +168,6 @@ nav button.active {
     margin-top: 100px;
 }
 
-.header-content h1 {
-    font-size: 60px;
-    line-height: 70px;
-     text-align: center;
-    font-weight: 600;
-    max-width: 650px;
-}
 
 .memp {
     width: 200;
